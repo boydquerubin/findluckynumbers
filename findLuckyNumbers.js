@@ -11,3 +11,6 @@ function luckyNumbers(n) {
     return uniqueNumbers;
   }
   
+
+  console.log(luckyNumbers(2));
+  console.log(luckyNumbers(6));
